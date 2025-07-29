@@ -1,1 +1,56 @@
-[]
+[
+  {
+    "title": "Contact",
+    "items": [
+      {
+        "ariaLabel": "Address",
+        "value": "Stationsweg 18, 3743 EN Baarn"
+      },
+      {
+        "ariaLabel": "Phone number",
+        "value": "035 - 548 16 11",
+        "link": "tel:0355481611"
+      },
+      {
+        "ariaLabel": "Contactmogelijkheden",
+        "value": "Alle contactmogelijkheden",
+        "link": "https://www.baarn.nl/contact"
+      }
+    ]
+  },
+  {
+    "title": "Meer informatie",
+    "items": [
+      {
+        "ariaLabel": "Toegankelijkheid",
+        "value": "Toegankelijkheid",
+        "link": "https://www.baarn.nl/toegankelijkheid"
+      },
+      {
+        "ariaLabel": "Privacyverklaring",
+        "value": "Privacyverklaring",
+        "link": "https://www.baarn.nl/privacy"
+      },
+      {
+        "ariaLabel": "Archiefweb",
+        "value": "Archiefweb",
+        "link": "https://baarn.archiefweb.eu/"
+      },
+      {
+        "ariaLabel": "Vacatures",
+        "value": "Vacatures",
+        "link": "https://www.baarn.nl/vacatures"
+      }
+    ]
+  },
+  {
+    "title": "Toerisme en recreatie",
+    "items": [
+      {
+        "ariaLabel": "Vorstelijk Baarn website",
+        "value": "Vorstelijk Baarn",
+        "link": "https://vorstelijkbaarn.nl/"
+      }
+    ]
+  }
+]
